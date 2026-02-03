@@ -21,4 +21,4 @@ I'm a scientist and engineer working to enable longer and healthier lives.
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=HHAHAXY)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HHAHAXY&layout=compact&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HHAHAXY&theme=graywhite)

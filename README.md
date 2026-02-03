@@ -6,7 +6,7 @@
 
 I'm a scientist and engineer working to enable longer and healthier lives.
 
-**Current status:** PhD student at [Centre for Healthy Longevity](https://www.nus.edu.sg/lsi/chl/), National University of Singapore, supervised by Profs. Jan Gruber and Brian Kennedy.
+**Current status:** PhD student at [Centre for Healthy Longevity](https://coe.nuhs.edu.sg/centre-for-healthy-longevity), National University of Singapore, supervised by Profs. Jan Gruber and Brian Kennedy.
 
 **Experience:**
 - Consulting on computational approaches to aging research and biological data analysis

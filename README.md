@@ -1,6 +1,6 @@
 # Ruslan Gumerov
 
-[CV](https://ruslan.works/cv1.pdf) | [Portfolio](https://ruslan.works)
+[cv](https://ruslan.works/cv1.pdf) | [website](https://ruslan.works)
 
 ## About
 
